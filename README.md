@@ -46,4 +46,4 @@ $ npm start
 
 ## License
 
-[MIT License](https://github.com/esqb/brcoin/blob/main/LICENSE)
+[MIT License](https://github.com/lucianoayres/online-bookstore-api/blob/main/LICENSE)
