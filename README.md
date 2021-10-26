@@ -25,7 +25,7 @@ Project created to study the fundamentals of a online bookstore API created with
 Clone the project repository:
 
 ```sh
-$ git clone github.com/lucianoayres/online-bookstore-api-poc.git
+$ git clone github.com/lucianoayres/online-bookstore-api.git
 ```
 
 ### Step 2
