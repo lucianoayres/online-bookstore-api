@@ -14,8 +14,8 @@ Project created to study the fundamentals of a online bookstore API created with
 - Book Author CRUD
 - Customer CRUD
 - Sales Report
-- [PostgreSQL](https://www.postgresql.org/)
-- [MongoDB](https://www.mongodb.com/)
+- [PostgreSQL](https://www.postgresql.org/) SQL database with [Sequelize](https://sequelize.org/) ORM
+- [MongoDB](https://www.mongodb.com/) NoSQL database with [Mongoose](https://mongoosejs.com/) ODM
 - Automated Tests with [Jest](https://jestjs.io/)
 
 ## Setup
