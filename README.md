@@ -16,6 +16,7 @@ Project created to study the fundamentals of a online bookstore API created with
 - Sales Report
 - [PostgreSQL](https://www.postgresql.org/)
 - [MongoDB](https://www.mongodb.com/)
+- Automated Tests with [Jest](https://jestjs.io/)
 
 ## Setup
 
