@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cenário 01: Testes de Integração Teste 2: Criar um novo autor válido e verificar se ele foi criado corretamente no banco de dados 1`] = `
+Object {
+  "autorId": 54,
+  "email": "clarisse@gmail.com",
+  "nome": "Clarice Lispector",
+  "telefone": "218888-5544",
+}
+`;
+
+exports[`Cenário 01: Testes de Integração Teste 3: Criar um novo livro válido com dados de teste para o autor criado no teste anterior e verificar se o livro foi criado corretamente 1`] = `
+Object {
+  "autorId": 54,
+  "estoque": 125,
+  "livroId": 56,
+  "nome": "Serveless Node.js",
+  "valor": 245.99,
+}
+`;
+
+exports[`Cenário 01: Testes de Integração Teste 4: Criar um novo cliente válido com dados de teste e verificar se ele foi criado corretamente 1`] = `
+Object {
+  "clienteId": 55,
+  "email": "jblues@gmail.com",
+  "endereco": "Rua Gomes da Costa, 892",
+  "nome": "Jack Blues",
+  "senha": "passpass2021",
+  "telefone": "819999-8877",
+}
+`;
+
+exports[`Cenário 01: Testes de Integração Teste 5: Buscar o livro criado no teste anterior utilizando dados de login do usário criado no teste anterior e verificar se o retorno é adequado. 1`] = `
+Object {
+  "autorId": 54,
+  "estoque": 125,
+  "livroId": 56,
+  "nome": "Serveless Node.js",
+  "valor": 245.99,
+}
+`;
+
+exports[`Cenário 01: Testes de Integração Teste 6: Criar uma venda para o usuário e o livro criados nos testes anteriores e verificar se a venda foi salva corretamente 1`] = `
+Object {
+  "clienteId": 55,
+  "data": "2021-07-21",
+  "livroId": 56,
+  "valor": 245.99,
+  "vendaId": 63,
+}
+`;
