@@ -14,6 +14,8 @@ Project created to study the fundamentals of a online bookstore API created with
 - Book Author CRUD
 - Customer CRUD
 - Sales Report
+- PostgreSQL
+- MongoDB
 
 ## Setup
 
