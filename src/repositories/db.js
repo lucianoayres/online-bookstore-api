@@ -1,7 +1,6 @@
 import Sequelize from 'sequelize'
 
-const URI =
-  'postgres://ubpavdqn:9YKtBULQmcDqaB0eoWJd0YM9yZ7Vls-O@tuffi.db.elephantsql.com/ubpavdqn'
+const URI = process.env.POSTGRE_URI
 
 const sequelize = new Sequelize(URI, {
   dialect: 'postgres',
