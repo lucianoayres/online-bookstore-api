@@ -38,6 +38,10 @@ $ npm install
 
 ### Step 3
 
+Set the enviroment variables in '.env.sample' and rename it to '.env'.
+
+### Step 4
+
 Start the server:
 
 ```sh
